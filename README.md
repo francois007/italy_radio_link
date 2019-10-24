@@ -1,2 +1,3 @@
-# italy_radio_link
-Italian VHF-UHF radio link repeater book
+# italy radio link
+Italy VHF-UHF radio link repeaters book
+Italy Amateur Radio Repeaters
